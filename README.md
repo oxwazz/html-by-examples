@@ -34,4 +34,8 @@
 
 <abbr> ✅
 └── title ✅
+
+<acronym> (DEPRECATED)
+
+<address> ✅
 ```
