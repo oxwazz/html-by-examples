@@ -38,4 +38,12 @@
 <acronym> (DEPRECATED)
 
 <address> ✅
+
+<area>
+
+<article> ✅
+
+<aside> ✅
+
+<audio>
 ```
