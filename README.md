@@ -31,16 +31,16 @@
 │   └── unsafe-url
 ├── rel
 └── attributionsrc (EXPERIMENTAL)
-<abbr> ✅
+✅ <abbr>
 └── ✅ title
 <acronym> (DEPRECATED)
-<address> ✅
+✅ <address> 
 <area>
-<article> ✅
-<aside> ✅
+✅ <article>
+✅ <aside>
 <audio>
-<b>
-<base>
+✅ <b>
+✅ <base>
 ├── ✅ href
 ├── target
 │   ├── ✅ _blank
