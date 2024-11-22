@@ -31,19 +31,20 @@
 │   └── unsafe-url
 ├── rel
 └── attributionsrc (EXPERIMENTAL)
-
 <abbr> ✅
 └── ✅ title
-
 <acronym> (DEPRECATED)
-
 <address> ✅
-
 <area>
-
 <article> ✅
-
 <aside> ✅
-
 <audio>
+<b>
+<base>
+├── ✅ href
+├── target
+│   ├── ✅ _blank
+│   ├── ✅ _self
+│   ├── ❓ _parent
+│   ├── ❓ _top
 ```
