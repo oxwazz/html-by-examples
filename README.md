@@ -1,24 +1,24 @@
 ```
 <a>
-├── href ✅
-│   ├── tel: ✅
-│   ├── mailto: ✅
-│   ├── sms: ✅
-│   └── javascript: ✅
+├── ✅ href
+│   ├── ✅ tel:
+│   ├── ✅ mailto:
+│   ├── ✅ sms:
+│   └── ✅ javascript:
 ├── target
-│   ├── _blank ✅
-│   ├── _self ✅
-│   ├── _parent ❓
-│   ├── _top ❓
-│   └── _unfencedTop ❓
-├── download ✅
+│   ├── ✅ _blank
+│   ├── ✅ _self
+│   ├── ❓ _parent
+│   ├── ❓ _top
+│   └── ❓ _unfencedTop
+├── ✅ download
 ├── charset
 ├── coords
 ├── name
 ├── rev
 ├── shape
 ├── type
-├── ping ✅
+├── ✅ ping
 ├── hreflang
 ├── referrerpolicy
 │   ├── no-referrer
@@ -33,7 +33,7 @@
 └── attributionsrc (EXPERIMENTAL)
 
 <abbr> ✅
-└── title ✅
+└── ✅ title
 
 <acronym> (DEPRECATED)
 
